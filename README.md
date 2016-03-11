@@ -1,4 +1,4 @@
-# seproject-team-template
+# Seniors In Touchnology
 
 A template repository with wiki for a team project at JCE's software engineering course
 
