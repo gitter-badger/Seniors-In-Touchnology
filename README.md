@@ -2,7 +2,7 @@
 
 A template repository with wiki for a team project at JCE's software engineering course
 
-![project logo (this one is taken from basecamp)](http://klipfolio.com/sites/default/files/integrations/basecamp.png)
+![project logo (this one is taken from basecamp)](http://win-site.co.il/wp-content/uploads/2014/10/mhsava_tova2.jpg)
 
 ## Please visit our [live application](https://demo.reactstarterkit.com/)
 - Alright, currently only a landing page...
