@@ -1,6 +1,7 @@
 # Seniors In Touchnology
 
-A template repository with wiki for a team project at JCE's software engineering course
+This project designed to connect underprivileged populations to the numerous options inherent in the technology world.
+As well as developing contacts with graduates and expanding sphere of influence on adult.
 
 ![project logo (this one is taken from basecamp)](http://win-site.co.il/wp-content/uploads/2014/10/mhsava_tova2.jpg)
 
