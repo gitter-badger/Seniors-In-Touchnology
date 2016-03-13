@@ -8,7 +8,7 @@ As well as developing contacts with graduates and expanding sphere of influence 
 ## Please visit our [live application](https://demo.reactstarterkit.com/)
 - Alright, currently only a landing page...
 
-[![Join the chat at https://gitter.im/robi-y/seproject-team-template](https://gitter.im/matanan/MACHSAVA-TOVA?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+https://gitter.im/matanan/MACHSAVA-TOVA?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 
 ## [Issue Board](https://huboard.com/robi-y/seproject-team-template#/)
 
