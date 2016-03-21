@@ -5,7 +5,7 @@ As well as developing contacts with graduates and expanding sphere of influence 
 
 ![project logo (this one is taken from basecamp)](http://win-site.co.il/wp-content/uploads/2014/10/mhsava_tova2.jpg)
 
-## Please visit our [live application](http://afekh.azurewebsites.net/)
+## Please visit our [live application](http://seniorsintouchnology.azurewebsites.net/)
 - Alright, currently only a landing page...
 
 [![Join the chat at https://gitter.im/matanan/MACHSAVA-TOVA](https://badges.gitter.im/matanan/MACHSAVA-TOVA.svg)](https://gitter.im/matanan/MACHSAVA-TOVA?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
