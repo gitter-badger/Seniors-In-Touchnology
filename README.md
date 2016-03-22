@@ -1,5 +1,7 @@
 # Seniors In Touchnology
 
+[![Join the chat at https://gitter.im/afek590/Seniors-In-Touchnology](https://badges.gitter.im/afek590/Seniors-In-Touchnology.svg)](https://gitter.im/afek590/Seniors-In-Touchnology?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project designed to connect underprivileged populations to the numerous options inherent in the technology world.
 As well as developing contacts with graduates and expanding sphere of influence on adult.
 
